@@ -1,0 +1,10 @@
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\bin\Debug\Videa.Warehouse.Ingest.Messages.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\bin\Debug\Videa.Warehouse.Ingest.Messages.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\obj\Debug\Videa.Warehouse.Ingest.Messages.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\obj\Debug\Videa.Warehouse.Ingest.Messages.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\obj\Debug\Videa.Warehouse.Ingest.Messages.csprojResolveAssemblyReference.cache
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.Messages\bin\Debug\Videa.Warehouse.Ingest.Messages.dll
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.Messages\bin\Debug\Videa.Warehouse.Ingest.Messages.pdb
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.Messages\obj\Debug\Videa.Warehouse.Ingest.Messages.csprojResolveAssemblyReference.cache
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.Messages\obj\Debug\Videa.Warehouse.Ingest.Messages.dll
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.Messages\obj\Debug\Videa.Warehouse.Ingest.Messages.pdb

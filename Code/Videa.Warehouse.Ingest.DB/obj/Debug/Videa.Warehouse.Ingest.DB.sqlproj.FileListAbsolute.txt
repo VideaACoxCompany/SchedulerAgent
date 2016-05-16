@@ -1,0 +1,14 @@
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\bin\Debug\Videa.Warehouse.Ingest.DB.dacpac
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\bin\Debug\Videa.Warehouse.Ingest.DB.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\bin\Debug\Videa.Warehouse.Ingest.DB.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\obj\Debug\Videa.Warehouse.Ingest.DB.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\obj\Debug\Videa.Warehouse.Ingest.DB.pdb
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\bin\Debug\Videa.Warehouse.Ingest.DB.dacpac
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\bin\Debug\Videa.Warehouse.Ingest.DB.dll
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\bin\Debug\Videa.Warehouse.Ingest.DB.pdb
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\obj\Debug\Model.xml
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\obj\Debug\refactor.xml
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\obj\Debug\postdeploy.sql
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\obj\Debug\predeploy.sql
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\obj\Debug\Videa.Warehouse.Ingest.DB.dll
+C:\SchedulerAgent\Code\Videa.Warehouse.Ingest.DB\obj\Debug\Videa.Warehouse.Ingest.DB.pdb

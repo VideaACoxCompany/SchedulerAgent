@@ -1,0 +1,5 @@
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\bin\Release\Videa.Warehouse.Ingest.DB.dacpac
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\bin\Release\Videa.Warehouse.Ingest.DB.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\bin\Release\Videa.Warehouse.Ingest.DB.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\obj\Release\Videa.Warehouse.Ingest.DB.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.DB\obj\Release\Videa.Warehouse.Ingest.DB.pdb

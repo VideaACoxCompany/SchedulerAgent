@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videa.Warehouse.Ingest.Scheduler", "Code\Videa.Warehouse.Ingest.Scheduler\Videa.Warehouse.Ingest.Scheduler.csproj", "{9DA0EA76-FCA2-46F2-B57E-D77D935D3C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videa.Warehouse.Ingest.Messages", "Code\Videa.Warehouse.Ingest.Messages\Videa.Warehouse.Ingest.Messages.csproj", "{F9F0205B-3741-4978-84FC-466A776916FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{1161EF6D-D588-4FA8-B042-6E1EBB585889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videa.Warehouse.Ingest.Tests", "Code\Videa.Warehouse.Ingest.Tests\Videa.Warehouse.Ingest.Tests.csproj", "{22B06E2C-EA5D-45FB-8CF4-F52B9C497596}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Videa.Warehouse.Ingest.DB", "Code\Videa.Warehouse.Ingest.DB\Videa.Warehouse.Ingest.DB.sqlproj", "{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videa.Warehouse.Ingest.Core", "Code\Videa.Warehouse.Ingest.Core\Videa.Warehouse.Ingest.Core.csproj", "{BD1F4B36-B420-4C0E-81BE-2F60594829FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Agents", "Agents", "{6DD1B8C5-4BDE-408A-9085-D8B6C19E1D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videa.Warehouse.Ingest.Agent", "Code\Videa.Warehouse.Ingest.Agent\Videa.Warehouse.Ingest.Agent.csproj", "{E83F1022-F216-44EF-B10F-926FA70CCABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA0EA76-FCA2-46F2-B57E-D77D935D3C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA0EA76-FCA2-46F2-B57E-D77D935D3C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA0EA76-FCA2-46F2-B57E-D77D935D3C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA0EA76-FCA2-46F2-B57E-D77D935D3C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F0205B-3741-4978-84FC-466A776916FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F0205B-3741-4978-84FC-466A776916FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F0205B-3741-4978-84FC-466A776916FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F0205B-3741-4978-84FC-466A776916FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B06E2C-EA5D-45FB-8CF4-F52B9C497596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B06E2C-EA5D-45FB-8CF4-F52B9C497596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B06E2C-EA5D-45FB-8CF4-F52B9C497596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B06E2C-EA5D-45FB-8CF4-F52B9C497596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BD1F4B36-B420-4C0E-81BE-2F60594829FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1F4B36-B420-4C0E-81BE-2F60594829FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1F4B36-B420-4C0E-81BE-2F60594829FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1F4B36-B420-4C0E-81BE-2F60594829FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83F1022-F216-44EF-B10F-926FA70CCABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83F1022-F216-44EF-B10F-926FA70CCABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83F1022-F216-44EF-B10F-926FA70CCABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83F1022-F216-44EF-B10F-926FA70CCABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1B4E79F-77B7-4919-8CAC-E7A9DDC353B8} = {1161EF6D-D588-4FA8-B042-6E1EBB585889}
+		{E83F1022-F216-44EF-B10F-926FA70CCABF} = {6DD1B8C5-4BDE-408A-9085-D8B6C19E1D91}
+	EndGlobalSection
+EndGlobal

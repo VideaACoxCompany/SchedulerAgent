@@ -1,0 +1,4 @@
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\bin\Release\Videa.Warehouse.Ingest.Messages.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\bin\Release\Videa.Warehouse.Ingest.Messages.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\obj\Release\Videa.Warehouse.Ingest.Messages.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Messages\obj\Release\Videa.Warehouse.Ingest.Messages.pdb

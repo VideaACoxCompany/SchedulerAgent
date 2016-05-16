@@ -1,0 +1,17 @@
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\Videa.Warehouse.Ingest.Core.dll.config
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\Videa.Warehouse.Ingest.Core.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\Videa.Warehouse.Ingest.Core.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\EntityFramework.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\log4net.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\StructureMap.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\StructureMap.Net4.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\Videa.Framework.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\EntityFramework.xml
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\log4net.xml
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\StructureMap.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\StructureMap.xml
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\bin\Release\StructureMap.Net4.pdb
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\obj\Release\Videa.Warehouse.Ingest.Core.dll
+C:\Projects\traffic-tools\Code\Videa.Warehouse.Ingest.Core\obj\Release\Videa.Warehouse.Ingest.Core.pdb
